@@ -9,5 +9,7 @@ A new Flutter project.
 1. Download and open file in any code editor (vs code or android studio),
 2. open terminal and run these commands
 3. flutter pub get
-4. flutter run (make sure to your device is selected to debug). 
+4. flutter run (make sure to your device is selected to debug).
+
+5. User Name and password:  ( username= Gana1234,   password= Pass@1234 )
 

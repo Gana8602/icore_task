@@ -89,7 +89,6 @@ class _HomePageState extends State<HomePage> {
                       );
                     },
                     child: Card(
-                      color: Colors.white,
                       elevation: 10,
                       child: Container(
                         decoration: const BoxDecoration(
